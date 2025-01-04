@@ -16,3 +16,5 @@ class Solution {
         return max;
     }
 }
+
+// this is kadane's algorithm
