@@ -29,3 +29,5 @@ class Solution {
         return counter;
     }
 }
+
+// good question
