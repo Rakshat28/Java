@@ -1,4 +1,5 @@
 package Hashing;
+import java.util.HashMap;
 class Solution {
     public int countPalindromicSubsequence(String s) {
         HashMap<Character,Integer> firstIndex = new HashMap<>();
